@@ -9,7 +9,7 @@
         "/usr/include/**",
         "/opt/libtorch/include/**",
         "/usr/local/cuda/include/**",
-        "/home/atas/pointnet2_pytorch/include/**",
+        "/home/atas/fidnet/include/**",
         "/usr/local/include/**"
       ],
       "name": "ROS"

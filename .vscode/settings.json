@@ -83,7 +83,8 @@
         "stack": "cpp",
         "future": "cpp",
         "shared_mutex": "cpp",
-        "__locale": "cpp"
+        "__locale": "cpp",
+        "ios": "cpp"
     },
     "ros.distro": "foxy",
     "python.analysis.extraPaths": [

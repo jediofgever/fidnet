@@ -1,1 +1,1 @@
-# pointnet2_pytorch
+# fidnet
