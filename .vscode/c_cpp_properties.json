@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/usr/include/**",
+        "/opt/libtorch/include/**",
+        "/usr/local/cuda/include/**",
+        "/home/atas/pointnet2_pytorch/include/**",
+        "/usr/local/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
