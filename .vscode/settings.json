@@ -84,12 +84,13 @@
         "future": "cpp",
         "shared_mutex": "cpp",
         "__locale": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "__node_handle": "cpp"
     },
     "ros.distro": "foxy",
     "python.analysis.extraPaths": [
         "/opt/ros/foxy/lib/python3.8/site-packages"
     ],
-    "python.formatting.provider": "black",
+    "python.formatting.provider": "autopep8",
     "cmake.configureOnOpen": false
 }
